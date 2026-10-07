@@ -8,13 +8,6 @@ The chatbot analyzes the user's input and generates an appropriate response usin
 
 ---
 
-## 🌐 Live Demo
-
-🚀 **Try Doubt Slayer:**  
-https://doubt-slayer-chat-bot.vercel.app/
-
----
-
 ## 📌 Project Overview
 
 Self-doubt can negatively affect confidence, decision-making, productivity, and personal growth.
